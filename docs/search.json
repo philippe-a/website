@@ -9,7 +9,7 @@
   {
     "objectID": "cours.html",
     "href": "cours.html",
-    "title": "cours (in french)",
+    "title": "Note de cours (en français)",
     "section": "",
     "text": "Diaporama du Cours"
   },
@@ -93,15 +93,29 @@
   {
     "objectID": "cours.html#notes-de-cours",
     "href": "cours.html#notes-de-cours",
-    "title": "cours (in french)",
+    "title": "Note de cours (en français)",
     "section": "Notes de cours",
     "text": "Notes de cours\n\nIntroduction à la statitistique Bayesienne 2020 pdf\nCours de statitistique Bayesienne 2017 pdf\nMéthode MCMC. pdf\nIntroduction à l’application JAGS. pdf\nCours-conférence au Muséum national d’Histoire naturelle «Master évolution, patrimoine naturel et sociétés spécialité : quaternaire et préhistoire» pdf"
   },
   {
     "objectID": "cours.html#exercices",
     "href": "cours.html#exercices",
-    "title": "cours (in french)",
+    "title": "Note de cours (en français)",
     "section": "Exercices",
-    "text": "Exercices\n\nExercices pour le cours introduction de niveau master 2 pdf\n\n\nExercices pour option S2D Centrale Nantes 2018\n\nInformation a priori\nEstimation d’un proportion\nInférence bayésienne\nModèle Bayésien\nJAGS\n\n\n\nExercices pour master 2 IS\nPrérequis Information a priori Inférence bayésienne Inférence Bayésienne. [suite] Construction de lois a priori Prévision bayésienne Méthodes de Monte Carlo Algorithmes MCMC et programmation avec JAGS"
+    "text": "Exercices\n\nExercices pour le cours introduction de niveau master 2 pdf\n\n\nExercices pour option S2D Centrale Nantes 2018\n\nInformation a priori pdf\nEstimation d’un proportion pdf\nInférence bayésienne pdf\nModèle Bayésien pdf\nJAGS pdf\n\n\n\nExercices pour master 2 IS\n\nPrérequis pdf\nInformation a priori pdf\nInférence bayésienne pdf\nInférence Bayésienne. [suite] pdf\nConstruction de lois a priori pdf\nPrévision bayésienne pdf\nMéthodes de Monte Carlo pdf\nAlgorithmes MCMC et programmation avec JAGS pdf"
+  },
+  {
+    "objectID": "archaeology.html",
+    "href": "archaeology.html",
+    "title": "Bayesian statistics applied to Archaeology",
+    "section": "",
+    "text": "ArchaeoPhases: Bayesian Modeling of Archaeological Chronologies\nThe package ArchaeoPhases provides a list of functions for the statistical analysis and the post-processing of the Markov Chains simulated for instance by Bcal, ChronModel and Oxcal :\n– Age Depth curve\n– Building a chronology by intervals [phasing]\n– Testing the presence of hiatus\n– Estimation of a transition between two phases.\n– Tempo plot\ndownload R CRAN\n\n\n– Philippe A, Vibet M (2020). “Analysis of Archaeological Phases Using the R Package ArchaeoPhases.” Journal of Statistical Software, Code Snippets, 93(1). doi:10.18637/jss.v093.c01 https://doi.org/10.18637/jss.v093.c01.\n– Philippe A, Vibet M, Dye T, Frerebeau N (2023). ArchaeoPhases: Post-Processing of Markov Chain Monte Carlo Simulations for Chronological Modelling. Université de Nantes, Nantes, France. R package version 2.0, https://ArchaeoStat.github.io/ArchaeoPhases/."
+  },
+  {
+    "objectID": "archaeology.html#references",
+    "href": "archaeology.html#references",
+    "title": "Bayesian statistics applied to Archaeology",
+    "section": "",
+    "text": "– Philippe A, Vibet M (2020). “Analysis of Archaeological Phases Using the R Package ArchaeoPhases.” Journal of Statistical Software, Code Snippets, 93(1). doi:10.18637/jss.v093.c01 https://doi.org/10.18637/jss.v093.c01.\n– Philippe A, Vibet M, Dye T, Frerebeau N (2023). ArchaeoPhases: Post-Processing of Markov Chain Monte Carlo Simulations for Chronological Modelling. Université de Nantes, Nantes, France. R package version 2.0, https://ArchaeoStat.github.io/ArchaeoPhases/."
   }
 ]
