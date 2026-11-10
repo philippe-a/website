@@ -1,1 +1,12 @@
 .DS_Store
+_quarto.yml
+*.qmd
+/pdf
+styles.css
+WEBSITE.Rproj
+image1.png
+Anne.png
+.Rproj.user
+
+/.quarto/
+**/*.quarto_ipynb
